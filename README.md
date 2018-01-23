@@ -8,7 +8,7 @@
   
 ## Configuration de WAMP.
 
-  1. cliquer gauche sur l'icone WAMP en bas à droite du bureau windows. Cliquer sur PHP puis PHP.ini. Un fichier teste s'ouvre.
+  1. cliquer gauche sur l'icone WAMP en bas à droite du bureau windows. Cliquer sur PHP puis PHP.ini. Un fichier texte s'ouvre.
   2. Appuyer sur Ctrl+F et tapez openssl.
   3. Sur la ligne contenant ";extension=php_openssl.dll" retirer le ";". Vous avez donc: "extension=php_openssl.dll".
   4. Sauvegarder et fermer
